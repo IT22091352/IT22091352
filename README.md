@@ -118,9 +118,36 @@
 
 ---
 
+
 <h3 align="center">Services:</h3>
 <p align="center">
   <a href="https://www.fiverr.com/yourprofile" target="_blank">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" height="50" width="210" alt="Fiverr" />
   </a>
 </p>
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 20px;">
+  <div style="flex: 1; max-width: 300px; text-align: center;">
+    <i class="fa-solid fa-code" style="font-size: 2em;"></i>
+    <h2>Social Media Post Designing</h2>
+    <p>Crafting attractive graphics for Instagram, LinkedIn, and Facebook using Canva. Dedicated to making your social media presence eye-catching and professional.</p>
+    <a href="https://www.fiverr.com/s/m5m27kb"><strong>Learn More</strong></a>
+  </div>
+  
+  <div style="flex: 1; max-width: 300px; text-align: center;">
+    <i class="fa-solid fa-crop" style="font-size: 2em;"></i>
+    <h2>UI/UX Designing</h2>
+    <p>Passionate about creating intuitive, visually appealing interfaces. Specializing in transforming complex ideas into simple, user-friendly designs that enhance user experience.</p>
+    <a href="https://www.fiverr.com/s/m5m27kb"><strong>Learn More</strong></a>
+  </div>
+  
+  <div style="flex: 1; max-width: 300px; text-align: center;">
+    <i class="fa-brands fa-app-store-ios" style="font-size: 2em;"></i>
+    <h2>Web/Mobile Application Designing</h2>
+    <p>Building responsive, high-performance web and mobile applications tailored to your needs. Focus on functionality and user experience to ensure efficiency and ease of use.</p>
+    <a href="https://www.fiverr.com/s/m5m27kb"><strong>Learn More</strong></a>
+  </div>
+</div>
+
+---
+
