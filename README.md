@@ -144,8 +144,9 @@
 
    <div style="flex: 1; max-width: 300px; text-align: center;">
     <i class="fa-solid fa-crop" style="font-size: 2em;"></i>
-    <h2>UI/UX Designing</h2>
-    <p>Passionate about creating intuitive, visually appealing interfaces. Specializing in transforming complex ideas into simple, user-friendly designs that enhance user experience.</p>
+    <h2>Web/Mobile Application Designing</h2>
+    <p>
+Building responsive, high-performance web and mobile applications tailored to your needs. Focus on functionality and user experience to ensure efficiency and ease of use.</p>
     <a href="https://www.fiverr.com/s/m5m27kb"><strong>Learn More</strong></a>
   </div>
 
